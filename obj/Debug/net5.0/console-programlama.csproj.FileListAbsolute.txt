@@ -1,0 +1,15 @@
+/Users/ecekokyar/Desktop/Pratikler/console-programlama/bin/Debug/net5.0/console-programlama.deps.json
+/Users/ecekokyar/Desktop/Pratikler/console-programlama/bin/Debug/net5.0/console-programlama.runtimeconfig.json
+/Users/ecekokyar/Desktop/Pratikler/console-programlama/bin/Debug/net5.0/console-programlama.runtimeconfig.dev.json
+/Users/ecekokyar/Desktop/Pratikler/console-programlama/bin/Debug/net5.0/console-programlama.dll
+/Users/ecekokyar/Desktop/Pratikler/console-programlama/bin/Debug/net5.0/ref/console-programlama.dll
+/Users/ecekokyar/Desktop/Pratikler/console-programlama/bin/Debug/net5.0/console-programlama.pdb
+/Users/ecekokyar/Desktop/Pratikler/console-programlama/obj/Debug/net5.0/console-programlama.csproj.AssemblyReference.cache
+/Users/ecekokyar/Desktop/Pratikler/console-programlama/obj/Debug/net5.0/console-programlama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ecekokyar/Desktop/Pratikler/console-programlama/obj/Debug/net5.0/console-programlama.AssemblyInfoInputs.cache
+/Users/ecekokyar/Desktop/Pratikler/console-programlama/obj/Debug/net5.0/console-programlama.AssemblyInfo.cs
+/Users/ecekokyar/Desktop/Pratikler/console-programlama/obj/Debug/net5.0/console-programlama.csproj.CoreCompileInputs.cache
+/Users/ecekokyar/Desktop/Pratikler/console-programlama/obj/Debug/net5.0/console-programlama.dll
+/Users/ecekokyar/Desktop/Pratikler/console-programlama/obj/Debug/net5.0/ref/console-programlama.dll
+/Users/ecekokyar/Desktop/Pratikler/console-programlama/obj/Debug/net5.0/console-programlama.pdb
+/Users/ecekokyar/Desktop/Pratikler/console-programlama/obj/Debug/net5.0/console-programlama.genruntimeconfig.cache
